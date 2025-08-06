@@ -23,6 +23,13 @@
   - TMX文件編輯和PNG導出
   - 碰撞檢測層設置
 
+- [[manage-py-complete-guide]] - Django manage.py 完整技術指南與回放教程
+  - Django 服務器啟動和管理
+  - 模擬文件命名規範詳解
+  - 回放系統完整操作指南
+  - JSON 數據結構和壓縮算法
+  - 故障排除和最佳實踐
+
 ### 🔧 技術深度解析
 - [[color-id-system-guide]] - 顏色ID系統完整指南
   - 顏色編碼系統技術原理
