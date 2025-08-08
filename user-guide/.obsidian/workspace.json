@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tiled-map-editor-guide.md",
+                "file": "map-editing-workflow.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tiled-map-editor-guide"
+              "title": "map-editing-workflow"
             }
           }
         ]
@@ -170,14 +170,14 @@
   },
   "active": "bc0e0a5efec659b5",
   "lastOpenFiles": [
-    "step-by-step-data-flow-guide.md",
     "maze-py-technical-guide.md",
-    "map-editing-workflow.md",
-    "map-data-sources.md",
-    "index.md",
     "generative-agents-workflow.md",
-    "color-id-system-guide.md",
+    "index.md",
+    "manage-py-complete-guide.md",
+    "map-data-sources.md",
+    "map-editing-workflow.md",
     "tiled-map-editor-guide.md",
-    "manage-py-complete-guide.md"
+    "color-id-system-guide.md",
+    "step-by-step-data-flow-guide.md"
   ]
 }
